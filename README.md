@@ -9,3 +9,5 @@
 #### Author
 Frank Weng (fw2086@nyu.edu)
 
+## Comment
+**Comment from Charlotte Lin (cxl229):** This is a really fascinating article, especially with the buzz around ChatGPT these days. At this point, everyone is just speculating where this technology will go and how important it will become in our day-to-day lives. The article's discussion of how Google makes its money from its search engine ad revenue is interesting to me, because not only does Google show sponsored content "next to the search results" as the article mentions, but they also push sponsored search results to the top of the page, so that people are more likely to click on it. In the case that ChatGPT *does* replace Google's search engine...I wonder if they will do the same thing with advertising? That might lead to people getting biased information, because the AI would respond based on who's paying them, rather than what's actually the most useful or correct. This presents an interesting new problem, especially if the AI only gives that one response, and the user trusts the AI enough to just accept it as the truth.
